@@ -15,7 +15,8 @@ namespace Class2
 
         class Beer
         {
-
+            // Attributes
+            private double alcoholContent;
         }
     }
 }
