@@ -1,0 +1,6 @@
+\\dover-fs\users\cloubao\visual studio 2015\Projects\Classe 2\Classe 2\bin\Debug\Classe 2.exe.config
+\\dover-fs\users\cloubao\visual studio 2015\Projects\Classe 2\Classe 2\obj\Debug\Classe 2.csprojResolveAssemblyReference.cache
+\\dover-fs\users\cloubao\visual studio 2015\Projects\Classe 2\Classe 2\bin\Debug\Classe 2.exe
+\\dover-fs\users\cloubao\visual studio 2015\Projects\Classe 2\Classe 2\bin\Debug\Classe 2.pdb
+\\dover-fs\users\cloubao\visual studio 2015\Projects\Classe 2\Classe 2\obj\Debug\Classe 2.exe
+\\dover-fs\users\cloubao\visual studio 2015\Projects\Classe 2\Classe 2\obj\Debug\Classe 2.pdb
