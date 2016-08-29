@@ -10,13 +10,7 @@ namespace Class2
     {
         static void Main(string[] args)
         {
-         
-        }
-
-        class Beer
-        {
-            // Attributes
-            private double alcoholContent;
+            Beer myBeer = new Beer();
         }
     }
 }
